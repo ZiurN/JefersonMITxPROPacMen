@@ -14,4 +14,4 @@ There are some feature will be introduced in the future.
 * Animated PacMen.
 * Calculate collisions between the PacMen.
 ## License information
-This code is under MIT licence, you can find the complete file [here](./LICENCE)
+This code is under MIT licence, you can find the complete file [here](https://github.com/ZiurN/JefersonMITxPROPacMen/blob/main/LICENSE)
