@@ -1,7 +1,7 @@
 # PacMen Factory
 A funny page with random PacMen walking around the whole page.
 
-![Pacmen GIF](./images/pacmen.gif)
+![Pacmen GIF](../images/pacmen.gif)
 ## Description
 This simple page allows you to create a PacMan with a random movement pattern. Just need to click on the <code>Add PacMan</code> button, to create a new PacMan, and then just click on the <code>Start Game</code> button to see their movement along the page, bounding at the limits!!
 ## How to Run
